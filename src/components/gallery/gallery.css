@@ -1,0 +1,15 @@
+.gallery {
+  padding-bottom: 0;
+}
+
+.gallery-container {
+  column-count: 3;
+  column-gap: 1.5rem;
+}
+
+.gallery-item {
+  border-radius: 3rem 3rem 3rem 0;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+  position: relative;
+}
